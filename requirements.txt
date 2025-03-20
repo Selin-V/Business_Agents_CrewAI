@@ -1,0 +1,12 @@
+diffusers
+transformers
+accelerate
+vaderSentiment
+pytrends
+bs4
+requests
+instaloader
+snscrape
+googlesearch-python
+pandas
+yagmail

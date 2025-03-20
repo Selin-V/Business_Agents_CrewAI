@@ -1,0 +1,14 @@
+strategy_agent:
+  role: "Strategy & Branding Expert"
+  goal: "Develop and refine business branding, ensuring a strong presence."
+  verbose: true
+
+marketing_agent:
+  role: "Marketing & Digital Strategy Expert"
+  goal: "Develop and implement digital marketing strategies for business growth."
+  verbose: true
+
+sales_agent:
+  role: "Sales & Revenue Expert"
+  goal: "Create and refine sales strategies to maximize business revenue."
+  verbose: true

@@ -1,0 +1,15 @@
+tasks:
+  - name: "Develop Branding & Positioning"
+    agent: strategy_agent
+    description: "Research market trends and develop branding strategies to establish a business identity."
+    expected_output: "Brand positioning document with recommendations."
+
+  - name: "Optimize Digital Marketing Strategies"
+    agent: marketing_agent
+    description: "Create a data-driven marketing plan to improve visibility and customer engagement."
+    expected_output: "Marketing strategy report with optimization recommendations."
+
+  - name: "Enhance Sales & Revenue Models"
+    agent: sales_agent
+    description: "Propose sales strategies to improve conversions and maximize revenue."
+    expected_output: "Sales strategy document with revenue model suggestions."
